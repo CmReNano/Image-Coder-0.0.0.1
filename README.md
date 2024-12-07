@@ -1,1 +1,3 @@
-# Image-Coder-0.0.0.1
+Text - Code -> Image
+
+Текст - Код -> зображеня
