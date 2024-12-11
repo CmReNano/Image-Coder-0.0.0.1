@@ -1,17 +1,11 @@
-Level_0_0_0_2 = {
-    """
-    [Import Program Object]
-    """
-}
 Level_0_0_0_3 = {
     """
     [More symbols] (min 35)
-    [More Code language] (min 2)
     """
 }
-Level_0_0_0_4 = {
+Level_0_0_1_0 = {
     """
-    
+    [More Code language] (min 2)
     """
 }
 Level_1_0_0_0 = {
